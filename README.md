@@ -26,3 +26,5 @@
 > [!CAUTION]
 > Advises about risks or negative outcomes of certain actions.
 ```
+
+![](https://github.com/parrajulio33/cv-minimalist/blob/main/public/alerts-rendered.webp)
