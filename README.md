@@ -29,6 +29,12 @@
 
 ![](https://github.com/parrajulio33/cv-minimalist/blob/main/public/alerts-rendered.webp)
 
+## 🛠️ Stack
+
+- [**Astro**](https://astro.build/) - Web Framework.
+- [**Typescript**](https://www.typescriptlang.org/) - Superset of JavaScript.
+- [**Ninja Keys**](https://github.com/ssleptsov/ninja-keys) - Keyboard shortcut interface for your website that works with Vanilla JS, Vue, and React.
+
 ## 🚀 Start
 
 - I used [pnpm](https://pnpm.io/installation)
