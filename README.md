@@ -28,3 +28,16 @@
 ```
 
 ![](https://github.com/parrajulio33/cv-minimalist/blob/main/public/alerts-rendered.webp)
+
+## 🚀 Start
+
+- I used [pnpm](https://pnpm.io/installation)
+
+# Run project
+
+```bash
+# Intall dependecies
+pnpm install
+# run
+pnpm dev
+```
