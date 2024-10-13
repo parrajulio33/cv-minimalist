@@ -2,11 +2,11 @@
     "basics": {
         "name": "Julio Parra Sanchez",
         "label": "Software Developer",
-        "image": "",
+        "image": "/julio_parra.webp",
         "email": "parrajulio33@gmail.com",
         "phone": "(720) 277-8846",
         "url": "",
-        "summary": "",
+        "summary": "I fell into software engineering after studying electrical engineering and realizing that it was the software, not the hardware that really spoke to me. For me, nothing is more exciting than creating something fundamentally new to bring into the world. I’ve been in both the build and manage stages of an organization and it’s both the challenges and opportunities that come during hyper-growth that I’m most passionate about.",
         "location": {
             "address": "21008 East 63rd Avenue",
             "postalCode": "CO 80019",
@@ -21,7 +21,7 @@
                 "url": "https://www.linkedin.com/in/julio-alberto-parra-sanchez-06372451/"
             },
             {
-                "network": "GitHub",
+                "network": "Github",
                 "username": "parrajulio33",
                 "url": "https://github.com/parrajulio33"
             },
@@ -35,22 +35,22 @@
     "work": [
         {
             "name": "Techtonic Group",
-            "position": "Software Developer",
-            "url": "https://company.com",
+            "position": "Aprentice & Software Developer",
+            "url": "https://www.techtonic.com",
             "startDate": "2019-03-04",
             "endDate": "2020-12-08",
-            "summary": "Description…",
+            "summary": "AWS cognito, S3 in a project using Django & Python. Also, I worked on a project using React & Node.js; Development React Native project: Using framework EXPO and GCP; Install, config and implement Docker and Kubernetes for orchestration containers; Learn new technologies as required.",
             "highlights": [
-                "Started the company"
+                "Aprentinceship"
             ]
         },
         {
             "name": "Alfi Inc",
-            "position": "Software Developer",
-            "url": "https://company.com",
+            "position": "Frontend Engineer",
+            "url": "https://www.getalfi.com/",
             "startDate": "2021-04-30",
             "endDate": "2022-03-01",
-            "summary": "Description…",
+            "summary": "Create reusable components using MaterialUI framework; Design, develop, test, document, implement, modify and support ex-isting software. Troubleshoot, debug and upgrade existing software; CI/CD pipeline using GitHub Actions.",
             "highlights": [
                 "Started the company"
             ]
@@ -58,10 +58,10 @@
         {
             "name": "Wausau Coated Products Inc",
             "position": "Programmer Analyst IT",
-            "url": "https://company.com",
+            "url": "https://www.wausaucoated.com/",
             "startDate": "2022-03-14",
             "endDate": "",
-            "summary": "Description…",
+            "summary": "Work with a senior IT programmer/ analyst(s), users and manage-ment to assets software needs and system requirements; Mentor Entry level IT programmer/analyst(s) to assist them with their tasks and projects; Design, develop, test, document, implement and support new cus-tom-written software, as well as modify and support existing soft-ware; Monitor existing software and increase performance, as needed; Provide 24/7 support on a rotating schedule with other members of the IT Department.",
             "highlights": [
                 "Started the company"
             ]
@@ -82,15 +82,15 @@
     ],
     "education": [
         {
-            "institution": "University",
+            "institution": "University Rafael Urdaneta",
             "url": "https://institution.com/",
-            "area": "Software Development",
-            "studyType": "Bachelor",
-            "startDate": "2011-01-01",
-            "endDate": "2013-01-01",
+            "area": "Bachelor Degree of Electrical Engineering",
+            "studyType": "Bachelor Degree",
+            "startDate": "1988-06-15",
+            "endDate": "2003-12-15",
             "score": "4.0",
             "courses": [
-                "DB1101 - Basic SQL"
+                ""
             ]
         }
     ],
@@ -121,12 +121,156 @@
     ],
     "skills": [
         {
-            "name": "Web Development",
+            "name": "HTML",
             "level": "Advanced",
             "keywords": [
                 "HTML",
                 "CSS",
                 "JavaScript"
+            ]
+        },
+        {
+            "name": "CSS",
+            "level": "Advanced",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Diseño Responsive"
+            ]
+        },
+        {
+            "name": "JavaScript",
+            "level": "Advanced",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "Fullstack"
+            ]
+        },
+        {
+            "name": "Tailwind",
+            "level": "Advanced",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "CSS Framework",
+                "Responsive"
+            ]
+        },
+        {
+            "name": "TypeScript",
+            "level": "Advanced",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "Backend",
+                "JavaScript Superset"
+            ]
+        },
+        {
+            "name": "Node",
+            "level": "Advanced",
+            "keywords": [
+                "Desarrollo Web",
+                "Backend",
+                "JavaScript",
+                "Servidor"
+            ]
+        },
+        {
+            "name": "MySQL",
+            "level": "Advanced",
+            "keywords": [
+                "Bases de Datos",
+                "SQL",
+                "Almacenamiento de Datos",
+                "Backend"
+            ]
+        },
+        {
+            "name": "Git",
+            "level": "Advanced",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente"
+            ]
+        },
+        {
+            "name": "GitHub",
+            "level": "Advanced",
+            "keywords": [
+                "Control de Versiones",
+                "Colaboración",
+                "Código Fuente",
+                "Git"
+            ]
+        },
+        {
+            "name": "Next.js",
+            "level": "Intermediate",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "React Framework",
+                "SSR",
+                "Static Generation"
+            ]
+        },
+        {
+            "name": "React",
+            "level": "Advanced",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "AstroFramework",
+            "level": "Intermediate",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Angular",
+            "level": "Advanced",
+            "keywords": [
+                "Desarrollo Web",
+                "Frontend",
+                "JavaScript Library",
+                "UI"
+            ]
+        },
+        {
+            "name": "Expo",
+            "level": "Advanced",
+            "keywords": [
+                "UI",
+                "Mobile",
+                "React Native"
+            ]
+        },
+        {
+            "name": "Kotlin",
+            "level": "Intermediate",
+            "keywords": [
+                "UI",
+                "Mobile"
+            ]
+        },
+        {
+            "name": "Firebase",
+            "level": "Advanced",
+            "keywords": [
+                "Backend",
+                "Services"
             ]
         }
     ],
@@ -158,14 +302,34 @@
     ],
     "projects": [
         {
-            "name": "Project",
+            "name": "Hensel Phelps Construction Co.",
             "startDate": "2019-01-01",
             "endDate": "2021-01-01",
-            "description": "Description...",
+            "description": "PPO project performance optimization for Employee and Project Managers",
             "highlights": [
-                "Won award at AIHacks 2016"
+                "Python scripts for SQL database stored procedures, triggers, and functions"
             ],
-            "url": "https://project.com/"
+            "url": "https://www.henselphelps.com/"
+        },
+        {
+            "name": "Techtonic Group Website",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "add new features/styling the website using ButterCMS",
+            "highlights": [
+                "ButterCMS, Node.js, CSS, Sass."
+            ],
+            "url": "https://www.techtonic.com."
+        },
+        {
+            "name": "Liga Latina de Sofball Denver, Colorado",
+            "startDate": "2019-01-01",
+            "endDate": "2021-01-01",
+            "description": "Build a website (in construction), and a mobile app for the league (in construction)",
+            "highlights": [
+                "Angular, Node.js, Firebase, Firestore, React Native, Expo. Future implementation of AstroFramework"
+            ],
+            "url": "https://ligadesoftballdenver.com/"
         }
     ]
 }
