@@ -1,4 +1,4 @@
 [[headers]]
-  for = "/cv-minimalist/_astro/hoisted.BOqlnksF.js" # you can configure the correct paths here
+  for = "/*" # you can configure the correct paths here
   [headers.values]
     Referrer-Policy = "strict-origin-when-cross-origin"
