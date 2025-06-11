@@ -1,5 +1,5 @@
 [[headers]]
-  for = "/*" # you can configure the correct paths here
+  for = "https://684999d8a504db0008165193--julioparra-cv.netlify.app/cv-minimalist/_astro/hoisted.BOqlnksF.js" # you can configure the correct paths here
   [headers.values]
     Cache-Control = "no-cache"
     access-control-allow-origin = "*"
