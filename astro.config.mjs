@@ -5,5 +5,7 @@ import netlify from '@astrojs/netlify';
 export default defineConfig({
   site: "https://parrajulio33.github.io/cv-minimalist/",
   base: "/cv-minimalist/",
-  adapter: netlify(),	
+  adapter: netlify({
+		builders: true
+	}),	
 });
