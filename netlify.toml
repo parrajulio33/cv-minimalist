@@ -1,6 +1,4 @@
 [[headers]]
-  for = "/_astro/*" # you can configure the correct paths here
+  for = "/*" # you can configure the correct paths here
   [headers.values]
-    Cache-Control = "no-cache"
-    access-control-allow-origin = "*"
-    Access-Control-Allow-Methods = "GET, POST, OPTIONS"
+    Referrer-Policy = "strict-origin-when-cross-origin"
